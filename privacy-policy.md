@@ -1,6 +1,6 @@
 **PRIVACY POLICY**
 
-This Privacy Policy governs the manner in which [Your Company Name] ("We," "Us," or "Our") collects, uses, maintains, and discloses information collected from users (each, a "User" or "You") of the [Your App Name] mobile application (the "App").
+This Privacy Policy governs the manner in which Green Pixels ("We," "Us," or "Our") collects, uses, maintains, and discloses information collected from users (each, a "User" or "You") of the Guns of Dayz mobile application (the "App").
 
 1. Information Collection
 
@@ -28,7 +28,7 @@ Except as described in Sections 1 and 3 above, we do not share user data with th
 
 5. User Control
 
-Users can control data collection and targeted advertising preferences through the App settings.
+Users can control data collection and targeted advertising preferences by emailing your request to Green Pixels: carl.svahnstrom@gmail.com.
 
 6. Security
 
@@ -40,7 +40,7 @@ We reserve the right to update or modify this Privacy Policy at any time. Users 
 
 8. Contact Information
 
-For any inquiries or concerns regarding this Privacy Policy, please contact [Your Contact Information].
+For any inquiries or concerns regarding this Privacy Policy, please contact: carl.svahnstrom@gmail.
 
 9. Acceptance of Terms
 
